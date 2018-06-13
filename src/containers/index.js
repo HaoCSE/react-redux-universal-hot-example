@@ -16,3 +16,4 @@ export Lesson from './Content/Lesson'; //with id
 export CreateLesson from './Content/CreateLesson';
 export LessonEditor from './Content/LessonEditor';
 export NotFound from './NotFound/NotFound';
+export Pagination from './Pagination/Pagination';
